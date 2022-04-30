@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+✨ I'm a game developer, dev stack is Unity + C#, also exploring Golang for a bit now. :)
+
 <!--
 **OlegDzhuraev/OlegDzhuraev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
