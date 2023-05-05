@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-💬 I'm a game developer, dev stack is Unity + C#, also exploring Golang for a bit now. :)
+💬 I'm a game engineer, dev stack is Unity/Godot + C#, also exploring Golang for a bit now. :)
 
 ### My stats
 <table>
